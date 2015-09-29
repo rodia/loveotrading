@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference
+        android:title="@string/pref_team_title"
+        android:key="@string/pref_team_key"
+        android:defaultValue="@string/pref_barcelona_key"
+        android:entries="@array/pref_team_entries"
+        android:entryValues="@array/pref_team_keys"
+        />
+    <EditTextPreference
+        android:title="@string/pref_days_title"
+        android:key="@string/pref_days_key"
+        android:defaultValue="@string/pref_days_default"
+        android:inputType="number"
+        android:singleLine="true"/>
+</PreferenceScreen>

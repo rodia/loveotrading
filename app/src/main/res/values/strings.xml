@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Soccer News</string>
+    <string name="action_settings">Settings</string>
+    <string name="refresh_title">Refresh</string>
+    <string name="title_activity_details">Details</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="pref_barcelona_entry">Barcelona F.C.</string>
+    <string name="pref_real_madrid_entry">C.F Real Madrid</string>
+    <string name="pref_athletic_entry">Atlético de Madrid</string>
+    <string name="pref_barcelona_key" translatable="false">81</string>
+    <string name="pref_real_madrid_key" translatable="false">86</string>
+    <string name="pref_athletic_key" translatable="false">78</string>
+    <string name="pref_team_title" translatable="false">Team</string>
+    <string name="pref_team_key" translatable="false">team</string>
+    <string name="pref_days_title">Days Before</string>
+    <string name="pref_days_key" translatable="false">days</string>
+    <string name="pref_days_default" translatable="false">30</string>
+</resources>

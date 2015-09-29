@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_team_entries">
+        <item>@string/pref_barcelona_entry</item>
+        <item>@string/pref_real_madrid_entry</item>
+        <item>@string/pref_athletic_entry</item>
+    </string-array>
+
+    <string-array name="pref_team_keys">
+        <item>@string/pref_barcelona_key</item>
+        <item>@string/pref_real_madrid_key</item>
+        <item>@string/pref_athletic_key</item>
+    </string-array>
+</resources>
