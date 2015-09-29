@@ -40,7 +40,7 @@ public class Utility {
         String timeFrame = "p" + days;
 
         try {
-            final String FIXTURE_BASE_URL = "http://api.football-data.org/alpha/teams/";
+            final String FIXTURE_BASE_URL = "http://restle.hostingla.in/trades/api/";
             final String FIXTURE_PATH = "fixtures";
             final String TIME_FRAME_PARAMETER = "timeFrame";
 
