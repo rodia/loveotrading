@@ -1,11 +1,7 @@
-Proyecto Inicial para el diplomado de programación en Android de la UCB
-Gestión I-2015.
+** Proyecto LoVeoTrading
 
-Créditos:
-Pablo Sanabria Q (Docente del módulo de Android)
-Lenka Angulo L (Diseño de iconos en la aplicación)
+Este proyecto tiene por objetivo mostar información de restapi usando android
 
-Agradecimientos:
-Universidad Católica Boliviana
-football-data.org (API usada para el desarrollo de nuestra aplicación)
-Github (Hosting de código)
+*** Requerimientos
+
+1. Android 4.0
